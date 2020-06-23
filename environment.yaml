@@ -1,0 +1,6 @@
+name: demo
+dependencies:
+        - pandas
+        - matplotlib
+        - jupyter
+        - seaborn
